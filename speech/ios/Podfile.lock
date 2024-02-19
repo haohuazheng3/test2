@@ -1,0 +1,48 @@
+PODS:
+  - another_audio_recorder (0.5.4):
+    - Flutter
+  - Flutter (1.0.0)
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - "permission_handler (5.1.0+2)":
+    - Flutter
+  - speech_to_text (0.0.1):
+    - Flutter
+    - Try
+  - Try (2.1.1)
+
+DEPENDENCIES:
+  - another_audio_recorder (from `.symlinks/plugins/another_audio_recorder/ios`)
+  - Flutter (from `Flutter`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler (from `.symlinks/plugins/permission_handler/ios`)
+  - speech_to_text (from `.symlinks/plugins/speech_to_text/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Try
+
+EXTERNAL SOURCES:
+  another_audio_recorder:
+    :path: ".symlinks/plugins/another_audio_recorder/ios"
+  Flutter:
+    :path: Flutter
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler:
+    :path: ".symlinks/plugins/permission_handler/ios"
+  speech_to_text:
+    :path: ".symlinks/plugins/speech_to_text/ios"
+
+SPEC CHECKSUMS:
+  another_audio_recorder: dee1fef684a64f55beda4b16b847d264455b5de9
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  path_provider_foundation: 3784922295ac71e43754bd15e0653ccfd36a147c
+  permission_handler: ccb20a9fad0ee9b1314a52b70b76b473c5f8dab0
+  speech_to_text: b43a7d99aef037bd758ed8e45d79bbac035d2dfe
+  Try: 5ef669ae832617b3cee58cb2c6f99fb767a4ff96
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.14.3
